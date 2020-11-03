@@ -11,6 +11,6 @@ POST, PUT, GET, PATCH and DELETE, each request have a description in the code fi
 With this file the user get extract the CPU memory data from his computer, after doing so we can put the data 
 inside our database with the webserver.
 
-## Execution and creating the databse:
+## Execution and creating the database:
 We can execute our webserver using the "Postman" app after running the server on command propmt (windows).
 * Important: for running first time we must include the line "db.create_all()" between the lines 49 - 51 to create the database.
