@@ -1,4 +1,4 @@
-# REAST-API-with-Flask
+# REST-API-with-Flask
 
 Descripition: in this project we build a REST API webserver using flask, with SQLALCHEMY and Marshmellow libraries we are
 creating a sqlite database for storing and acessing the data.
